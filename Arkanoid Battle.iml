@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="ArkBatlte">
+    <configurations>
+      <configuration name="ArkBatlte" pure-as="true" main-class="Main" output-file="application.swf" output-folder="$MODULE_DIR$/bin">
+        <dependencies target-player="16">
+          <entries>
+            <entry library-id="b6b13cbf-1659-4f66-8877-98dccfd16d4c">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="60d7437f-f288-48ee-b17a-a9b4ff5c76a4">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="5e4a0c5e-f3a6-4125-bfd8-36ddc8c55719">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="1a7f820e-8f10-4041-b341-19396aaeafb2">
+              <dependency linkage="External" />
+            </entry>
+            <entry library-id="20383065-8b43-4fae-a20d-2f4aae289914">
+              <dependency linkage="External" />
+            </entry>
+            <entry library-id="d8017b98-007f-4c07-b833-8c336f8907eb">
+              <dependency linkage="External" />
+            </entry>
+            <entry library-id="f6f12802-2ccb-4801-bfb5-34484fdfe772">
+              <dependency linkage="External" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6" />
+        </dependencies>
+        <compiler-options>
+          <option name="additionalOptions" value="-swf-version=16 -target-player=12" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/classes" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../Shared">
+      <sourceFolder url="file://$MODULE_DIR$/../Shared" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex_sdk_4.6" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="MonsterDebugger" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="b6b13cbf-1659-4f66-8877-98dccfd16d4c" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/flas/MainLibrary.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="60d7437f-f288-48ee-b17a-a9b4ff5c76a4" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/flas/ParticleEffects.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="5e4a0c5e-f3a6-4125-bfd8-36ddc8c55719" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../App Core/lib/MonsterDebugger.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="1a7f820e-8f10-4041-b341-19396aaeafb2" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/11.5/playerglobal.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="20383065-8b43-4fae-a20d-2f4aae289914" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/13/playerglobal13_0.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="d8017b98-007f-4c07-b833-8c336f8907eb" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/16/playerglobal16_0.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="f6f12802-2ccb-4801-bfb5-34484fdfe772" />
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/16/playerglobal.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

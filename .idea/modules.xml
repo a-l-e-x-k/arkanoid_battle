@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arkanoid Battle.iml" filepath="$PROJECT_DIR$/Arkanoid Battle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/FieldPresetCreator/FieldPresetCreator.iml" filepath="$PROJECT_DIR$/utils/FieldPresetCreator/FieldPresetCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/Lightning/Lightning.iml" filepath="$PROJECT_DIR$/utils/Lightning/Lightning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/PrewiggleEffect/PrewiggleEffect.iml" filepath="$PROJECT_DIR$/utils/PrewiggleEffect/PrewiggleEffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/StarlingTest/StarlingTest.iml" filepath="$PROJECT_DIR$/utils/StarlingTest/StarlingTest.iml" />
+    </modules>
+  </component>
+</project>
+

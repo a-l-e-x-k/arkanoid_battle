@@ -1,0 +1,16 @@
+D:\Job\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\bin\Debug\ServerSide Code.dll
+D:\Job\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\bin\Debug\ServerSide Code.pdb
+D:\Job\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\bin\x64\Debug\ServerSide Code.dll
+D:\Job\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\bin\x64\Debug\ServerSide Code.pdb
+D:\Job\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\obj\x86\Debug\ServerSide Code.dll
+D:\Job\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\obj\x86\Debug\ServerSide Code.pdb
+D:\Job\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\obj\x86\Debug\ServerSide.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\obj\x86\Debug\ServerSide Code.dll
+\\vmware-host\Shared Folders\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\obj\x86\Debug\ServerSide Code.pdb
+\\vmware-host\Shared Folders\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\bin\x64\Debug\ServerSide Code.dll
+\\vmware-host\Shared Folders\Dropbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\bin\x64\Debug\ServerSide Code.pdb
+Z:\aleksejkuznecov On My Mac\Dropbox\RIA Junkbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\bin\x64\Debug\ServerSide Code.dll
+Z:\aleksejkuznecov On My Mac\Dropbox\RIA Junkbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\bin\x64\Debug\ServerSide Code.pdb
+Z:\aleksejkuznecov On My Mac\Dropbox\RIA Junkbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\obj\x86\Debug\ServerSide.csprojResolveAssemblyReference.cache
+Z:\aleksejkuznecov On My Mac\Dropbox\RIA Junkbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\obj\x86\Debug\ServerSide Code.dll
+Z:\aleksejkuznecov On My Mac\Dropbox\RIA Junkbox\Arkanoid Battle\serverside\Game Code\ServerSide Code\obj\x86\Debug\ServerSide Code.pdb

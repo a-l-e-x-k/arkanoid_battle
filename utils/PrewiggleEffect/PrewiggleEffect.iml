@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="PrewiggleEffect">
+    <configurations>
+      <configuration name="PrewiggleEffect" pure-as="true" main-class="Main" output-file="PrewiggleEffect.swf" output-folder="$MODULE_DIR$/../../out/production/PrewiggleEffect">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-id="160801f0-4778-43cc-9943-70e6bc5917c1">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="853d4021-5407-4f94-a00d-2b8c2c857b6c">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex_sdk_4.6" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="160801f0-4778-43cc-9943-70e6bc5917c1" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../App Core/lib/MonsterDebugger.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="853d4021-5407-4f94-a00d-2b8c2c857b6c" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../flas/MainLibrary.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
