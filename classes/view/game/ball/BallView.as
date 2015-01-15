@@ -5,7 +5,7 @@
  */
 package view.game.ball
 {
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import model.StarlingTextures;
     import model.constants.GameConfig;

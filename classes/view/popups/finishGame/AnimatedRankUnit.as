@@ -9,8 +9,8 @@ package view.popups.finishGame
 {
     import events.RequestEvent;
 
-    import external.caurina.transitions.Tweener;
-    import external.caurina.transitions.properties.ColorShortcuts;
+    import caurina.transitions.Tweener;
+    import caurina.transitions.properties.ColorShortcuts;
 
     import flash.display.MovieClip;
     import flash.display.Sprite;

@@ -1,4 +1,4 @@
-// Copyright © 2007. Adobe Systems Incorporated. All Rights Reserved.
+// Copyright ï¿½ 2007. Adobe Systems Incorporated. All Rights Reserved.
 package fl.transitions 
 { 
 import flash.display.MovieClip;
@@ -14,8 +14,8 @@ import flash.geom.*;
  * <p>For example, the following code uses the Blinds transition for the movie clip 
  * instance <code>img1_mc</code>:</p>
  * <listing>
- * import fl.transitions.~~;
- * import fl.transitions.easing.~~;
+ * import fl.external.transitions.~~;
+ * import fl.external.transitions.easing.~~;
  *  
  * TransitionManager.start(img1_mc, {type:Blinds, direction:Transition.IN, duration:2, easing:None.easeNone, numStrips:10, dimension:0}); 
  * </listing>

@@ -7,7 +7,7 @@ package view.lobby.gameSelect.scroller
 {
     import events.RequestEvent;
 
-    import external.caurina.transitions.Tweener;
+    import caurina.transitions.Tweener;
 
     import flash.display.Sprite;
     import flash.events.MouseEvent;

@@ -1,6 +1,6 @@
 package view.buttons
 {
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 	import events.RequestEvent;
 	import flash.display.MovieClip;
 	import flash.events.MouseEvent;

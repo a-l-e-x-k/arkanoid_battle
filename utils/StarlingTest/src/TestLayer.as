@@ -4,7 +4,7 @@
  * Time: 2:47 PM
  */
 package {
-	import external.caurina.transitions.Equations;
+	import caurina.transitions.Equations;
 
 	import flash.display.Bitmap;
 	import flash.display.MovieClip;

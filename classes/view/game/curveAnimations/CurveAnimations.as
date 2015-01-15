@@ -7,8 +7,8 @@ package view.game.curveAnimations
 {
 	import events.RequestEvent;
 
-	import external.caurina.transitions.Tweener;
-	import external.caurina.transitions.properties.CurveModifiers;
+	import caurina.transitions.Tweener;
+	import caurina.transitions.properties.CurveModifiers;
 
 	import model.StarlingTextures;
 	import model.constants.PointsPrizes;

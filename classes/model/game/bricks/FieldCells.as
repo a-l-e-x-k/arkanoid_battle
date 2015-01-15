@@ -8,7 +8,7 @@ package model.game.bricks
     import events.RequestEvent;
     import events.RequestEventStarling;
 
-    import external.caurina.transitions.Tweener;
+    import caurina.transitions.Tweener;
 
     import flash.events.EventDispatcher;
 

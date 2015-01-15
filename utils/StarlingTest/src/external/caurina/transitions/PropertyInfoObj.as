@@ -1,4 +1,4 @@
-package external.caurina.transitions {
+package caurina.transitions {
 
 	/**
 	 * PropertyInfoObj
@@ -50,7 +50,7 @@ package external.caurina.transitions {
 		 * Clones this property info and returns the new PropertyInfoObj
 		 *
 		 * @param	omitEvents		Boolean			Whether or not events such as onStart (and its parameters) should be omitted
-		 * @return 					external.caurina.transitions.TweenListObj	A copy of this object
+		 * @return 					caurina.transitions.TweenListObj	A copy of this object
 		 */
 		public function clone():PropertyInfoObj {
 			var nProperty:PropertyInfoObj = new PropertyInfoObj(valueStart, valueComplete, originalValueComplete, arrayIndex, extra, isSpecialProperty, modifierFunction, modifierParameters);

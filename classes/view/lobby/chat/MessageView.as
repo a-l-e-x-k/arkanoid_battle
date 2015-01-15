@@ -5,7 +5,7 @@
  */
 package view.lobby.chat
 {
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import flash.events.MouseEvent;
 	import flash.geom.Point;

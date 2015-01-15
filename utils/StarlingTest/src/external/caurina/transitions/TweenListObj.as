@@ -1,4 +1,4 @@
-﻿package external.caurina.transitions {
+﻿package caurina.transitions {
 	/**
 	 * The tween list object. Stores all of the properties and information that pertain to individual tweens.
 	 *
@@ -82,7 +82,7 @@
 		 * Clones this tweening and returns the new TweenListObj
 		 *
 		 * @param	omitEvents		Boolean			Whether or not events such as onStart (and its parameters) should be omitted
-		 * @return					external.caurina.transitions.TweenListObj	A copy of this object
+		 * @return					caurina.transitions.TweenListObj	A copy of this object
 		 */
 		public function clone(omitEvents:Boolean):TweenListObj {
 			var nTween:TweenListObj = new TweenListObj(scope, timeStart, timeComplete, useFrames, transition, transitionParams);

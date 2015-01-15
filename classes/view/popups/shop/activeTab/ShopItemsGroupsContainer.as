@@ -5,7 +5,7 @@
  */
 package view.popups.shop.activeTab
 {
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import flash.display.Sprite;
 

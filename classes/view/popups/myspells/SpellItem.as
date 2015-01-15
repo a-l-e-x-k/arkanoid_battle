@@ -5,9 +5,9 @@
  */
 package view.popups.myspells
 {
-    import events.RequestEvent;
+    import caurina.transitions.Tweener;
 
-    import external.caurina.transitions.Tweener;
+    import events.RequestEvent;
 
     import flash.display.MovieClip;
     import flash.events.MouseEvent;

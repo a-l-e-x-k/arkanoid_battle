@@ -24,22 +24,22 @@ package view.game.ball
 	private var _mc:MovieClip;
 	private var _currentFrame:Number = 0; //trick for slowing down speed of path playback (for Freeze powerup)
 
-	public function BallPath(type:int)
+	public function BallPath(ballType:int)
 	{
-		setType(type);
+		setType(ballType);
 	}
 
-	public function setType(type:int):void
+	public function setType(ballType:int):void
 	{
 		var currentAngle:Number = _mc ? (Misc.degrees(_mc.rotation) - 180) * -1 : 0;
 
 		cleanUp();
 
-		_type = type;
+		_type = ballType;
 
-		if (type == TYPE_SIMPLE)
+		if (ballType == TYPE_SIMPLE)
 			_mc = AnimationsManager.getAnimation(AnimationsManager.BLUE_FIRE);
-		else if (type == TYPE_FIRE)
+		else if (ballType == TYPE_FIRE)
 			_mc = AnimationsManager.getAnimation(AnimationsManager.RED_FIRE);
 
 		_mc.pivotX = 10 + GameConfig.BALL_RADIUS; //shift + radius

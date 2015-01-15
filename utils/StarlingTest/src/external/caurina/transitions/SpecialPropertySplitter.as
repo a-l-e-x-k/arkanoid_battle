@@ -1,4 +1,4 @@
-package external.caurina.transitions {
+package caurina.transitions {
 
 	/**
 	 * SpecialPropertySplitter

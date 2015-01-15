@@ -2,7 +2,7 @@ package view.game.rocket
 {
     import events.RequestEvent;
 
-    import external.caurina.transitions.Tweener;
+    import caurina.transitions.Tweener;
 
     import flash.display.DisplayObject;
     import flash.display.MovieClip;

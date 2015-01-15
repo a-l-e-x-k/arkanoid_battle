@@ -1,10 +1,10 @@
-// Copyright © 2007. Adobe Systems Incorporated. All Rights Reserved.
+// Copyright ï¿½ 2007. Adobe Systems Incorporated. All Rights Reserved.
 /*
 example of transition code:
 
-import mx.transitions.*;
+import mx.external.transitions.*;
 
-TransitionManager.start( this, { type:fl.transitions.Iris,
+TransitionManager.start( this, { type:fl.external.transitions.Iris,
                                  direction:Transition.IN,
                                  duration:2,
                                  easing:Strong.easeInOut,
@@ -214,8 +214,8 @@ public class Transition extends EventDispatcher
 	}
 	 
 /**
- * Sets the tweening effect for the animation. Use one of the effects in the fl.transitions or
- * fl.transitions.easing packages. 
+ * Sets the tweening effect for the animation. Use one of the effects in the fl.external.transitions or
+ * fl.external.transitions.easing packages.
  * @playerversion Flash 9
      * @playerversion AIR 1.0
      * @productversion Flash CS3
@@ -270,7 +270,7 @@ public class Transition extends EventDispatcher
 	- direction (0 or 1)
 	- duration (seconds)
 	- easing (an easing function)
-	- additional parameters can be defined for individual transitions
+	- additional parameters can be defined for individual external.transitions
 	*/	
     
     /**
@@ -391,7 +391,7 @@ public class Transition extends EventDispatcher
 	/////////// EVENT HANDLERS
 
     /**
-     * @private event that comes from an instance of fl.transitions.Tween
+     * @private event that comes from an instance of fl.external.transitions.Tween
      */ 
 	public function onMotionFinished(src:Object):void 
 	{

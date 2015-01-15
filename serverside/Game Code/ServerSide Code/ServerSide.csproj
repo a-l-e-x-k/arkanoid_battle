@@ -109,7 +109,6 @@
     <Compile Include="hierarchy\managers\PlayerEnergyTimer.cs" />
     <Compile Include="player\PlayerUpdateResult.cs" />
     <Compile Include="player\Spells.cs" />
-    <Compile Include="player\SpellsConfiguration.cs" />
     <Compile Include="player\SpellUseCounter.cs" />
     <Compile Include="PointsPrizes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

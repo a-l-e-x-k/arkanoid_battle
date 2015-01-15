@@ -7,7 +7,7 @@ package view.lobby.gameSelect.sideNavigation
 {
 	import events.RequestEvent;
 
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import flash.display.MovieClip;
 

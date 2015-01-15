@@ -5,7 +5,7 @@
  */
 package view.game.fire
 {
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import model.animations.AnimationsManager;
 

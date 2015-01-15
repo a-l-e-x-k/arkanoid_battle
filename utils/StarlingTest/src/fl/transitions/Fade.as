@@ -8,8 +8,8 @@ package fl.transitions
  * <p>For example, the following code uses the Fade transition for the movie clip 
  * instance <code>img1_mc</code>:</p>
  * <listing>
- * import fl.transitions.~~;
- * import fl.transitions.easing.~~;
+ * import fl.external.transitions.~~;
+ * import fl.external.transitions.easing.~~;
  *  
  * TransitionManager.start(img1_mc, {type:Fade, direction:Transition.IN, duration:9, easing:Strong.easeOut});
  * </listing>

@@ -33,7 +33,7 @@ http://code.google.external.com/p/tweener/
 http://code.google.external.com/p/tweener/wiki/License
 */
 
-package external.caurina.transitions {
+package caurina.transitions {
 	import flash.display.*;
 	import flash.events.Event;
 	import flash.utils.getTimer;

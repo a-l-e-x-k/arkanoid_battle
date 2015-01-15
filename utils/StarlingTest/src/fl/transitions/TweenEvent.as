@@ -4,7 +4,7 @@ package fl.transitions
 	import flash.events.Event;
 
 	/**
- * The TweenEvent class represents events that are broadcast by the fl.transitions.Tween class.
+ * The TweenEvent class represents events that are broadcast by the fl.external.transitions.Tween class.
  * @playerversion Flash 9
      * @playerversion AIR 1.0
      * @productversion Flash CS3

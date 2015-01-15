@@ -7,7 +7,7 @@ package view.game.field.cells
 {
 	import events.RequestEventStarling;
 
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import model.StarlingTextures;
 	import model.game.bricks.BrickPresets;

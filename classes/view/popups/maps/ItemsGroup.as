@@ -5,7 +5,7 @@
  */
 package view.popups.maps
 {
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import flash.display.Sprite;
 

@@ -7,7 +7,7 @@ package view.popups.myspells.preview
 {
 import events.RequestEvent;
 
-import external.caurina.transitions.Tweener;
+import caurina.transitions.Tweener;
 
 import model.spells.PreviewStorage;
 import model.spells.PreviewsLoader;

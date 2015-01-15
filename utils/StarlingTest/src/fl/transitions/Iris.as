@@ -10,13 +10,13 @@ package fl.transitions
  * following parameters:
  * <ul><li><code>startPoint</code>: An integer indicating a starting position; the range
  * is 1 to 9: Top Left:<code>1</code>; Top Center:<code>2</code>, Top Right:<code>3</code>; Left Center:<code>4</code>; Center:<code>5</code>; Right Center:<code>6</code>; Bottom Left:<code>7</code>; Bottom Center:<code>8</code>, Bottom Right:<code>9</code>.</li>
- * <li><code>shape</code>: A mask shape of either <code>fl.transitions.Iris.SQUARE</code> (a square) or <code>fl.transitions.Iris.CIRCLE</code> (a circle).
+ * <li><code>shape</code>: A mask shape of either <code>fl.external.transitions.Iris.SQUARE</code> (a square) or <code>fl.external.transitions.Iris.CIRCLE</code> (a circle).
 </li></ul>
  * <p>For example, the following code uses a circle-shaped animated mask transition for the movie clip 
  * instance <code>img1_mc</code>:</p>
  * <listing>
- * import fl.transitions.~~;
- * import fl.transitions.easing.~~;
+ * import fl.external.transitions.~~;
+ * import fl.external.transitions.easing.~~;
  * 
  * TransitionManager.start(img1_mc, {type:Iris, direction:Transition.IN, duration:2, easing:Strong.easeOut, startPoint:5, shape:Iris.CIRCLE}); 
  * </listing>

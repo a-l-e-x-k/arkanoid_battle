@@ -5,7 +5,7 @@
  */
 package view.game.spells
 {
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import flash.display.MovieClip;
     import flash.events.MouseEvent;

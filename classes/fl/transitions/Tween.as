@@ -1,4 +1,4 @@
-// Copyright © 2007. Adobe Systems Incorporated. All Rights Reserved.
+// Copyright ï¿½ 2007. Adobe Systems Incorporated. All Rights Reserved.
 package fl.transitions
 {
 import flash.events.*;
@@ -6,7 +6,7 @@ import flash.display.*;
 import flash.utils.*;
 
 /**
- * @eventType fl.transitions.TweenEvent.MOTION_CHANGE
+ * @eventType fl.external.transitions.TweenEvent.MOTION_CHANGE
  *
  * @playerversion Flash 9
      * @playerversion AIR 1.0
@@ -16,7 +16,7 @@ import flash.utils.*;
 [Event(name="motionChange", type="fl.transitions.TweenEvent")]
 
 /**
- * @eventType fl.transitions.TweenEvent.MOTION_FINISH
+ * @eventType fl.external.transitions.TweenEvent.MOTION_FINISH
  *
  * @playerversion Flash 9
      * @playerversion AIR 1.0
@@ -26,7 +26,7 @@ import flash.utils.*;
 [Event(name="motionFinish", type="fl.transitions.TweenEvent")]
 
 /**
- * @eventType fl.transitions.TweenEvent.MOTION_LOOP
+ * @eventType fl.external.transitions.TweenEvent.MOTION_LOOP
  *
  * @playerversion Flash 9
      * @playerversion AIR 1.0
@@ -36,7 +36,7 @@ import flash.utils.*;
 [Event(name="motionLoop", type="fl.transitions.TweenEvent")]
 
 /**
- * @eventType fl.transitions.TweenEvent.MOTION_RESUME
+ * @eventType fl.external.transitions.TweenEvent.MOTION_RESUME
  *
  * @playerversion Flash 9
      * @playerversion AIR 1.0
@@ -46,7 +46,7 @@ import flash.utils.*;
 [Event(name="motionResume", type="fl.transitions.TweenEvent")]
 
 /**
- * @eventType fl.transitions.TweenEvent.MOTION_START
+ * @eventType fl.external.transitions.TweenEvent.MOTION_START
  *
  * @playerversion Flash 9
      * @playerversion AIR 1.0
@@ -56,7 +56,7 @@ import flash.utils.*;
 [Event(name="motionStart", type="fl.transitions.TweenEvent")]
 
 /**
- * @eventType fl.transitions.TweenEvent.MOTION_STOP
+ * @eventType fl.external.transitions.TweenEvent.MOTION_STOP
  *
  * @playerversion Flash 9
      * @playerversion AIR 1.0
@@ -72,7 +72,7 @@ import flash.utils.*;
  *
  * <p>The Tween class also lets you specify a variety of easing methods. "Easing" refers to 
  * gradual acceleration or deceleration during an animation, which helps your animations appear
- * more realistic. The fl.transitions.easing package provides many easing methods that contain 
+ * more realistic. The fl.external.transitions.easing package provides many easing methods that contain
  * equations for this acceleration and deceleration, which change the easing animation
  * accordingly.</p>
  *
@@ -80,8 +80,8 @@ import flash.utils.*;
  * operator with the constructor function to create an instance of the class, and you specify an easing 
  * method as a parameter. For example:</p>
  * <listing>
- * import fl.transitions.Tween;
- * import fl.transitions.easing.~~;
+ * import fl.external.transitions.Tween;
+ * import fl.external.transitions.easing.~~;
  * var myTween:Tween = new Tween(myObject, "x", Elastic.easeOut, 0, 300, 3, true);
  * </listing>
  *

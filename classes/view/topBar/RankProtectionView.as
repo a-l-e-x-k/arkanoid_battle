@@ -7,7 +7,7 @@
  */
 package view.topBar
 {
-    import external.caurina.transitions.Tweener;
+    import caurina.transitions.Tweener;
 
     import utils.MovieClipContainer;
 

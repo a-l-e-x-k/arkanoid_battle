@@ -10,7 +10,7 @@ package view.game.field
     import external.bouncyShield.CubicBezier;
     import external.bouncyShield.physics.Particle;
     import external.bouncyShield.physics.ParticleSystem;
-    import external.caurina.transitions.Tweener;
+    import caurina.transitions.Tweener;
 
     import flash.display.Sprite;
     import flash.events.Event;

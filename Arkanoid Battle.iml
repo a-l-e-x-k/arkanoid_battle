@@ -11,20 +11,11 @@
             <entry library-id="60d7437f-f288-48ee-b17a-a9b4ff5c76a4">
               <dependency linkage="Merged" />
             </entry>
-            <entry library-id="5e4a0c5e-f3a6-4125-bfd8-36ddc8c55719">
-              <dependency linkage="Merged" />
-            </entry>
-            <entry library-id="1a7f820e-8f10-4041-b341-19396aaeafb2">
-              <dependency linkage="External" />
-            </entry>
-            <entry library-id="20383065-8b43-4fae-a20d-2f4aae289914">
-              <dependency linkage="External" />
-            </entry>
-            <entry library-id="d8017b98-007f-4c07-b833-8c336f8907eb">
-              <dependency linkage="External" />
-            </entry>
             <entry library-id="f6f12802-2ccb-4801-bfb5-34484fdfe772">
               <dependency linkage="External" />
+            </entry>
+            <entry library-id="9c9fbe89-f720-4087-96ad-74ff22ffb7c1">
+              <dependency linkage="Merged" />
             </entry>
           </entries>
           <sdk name="flex_sdk_4.6" />
@@ -72,49 +63,19 @@
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library type="flex">
-        <properties id="5e4a0c5e-f3a6-4125-bfd8-36ddc8c55719" />
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../App Core/lib/MonsterDebugger.swc!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library type="flex">
-        <properties id="1a7f820e-8f10-4041-b341-19396aaeafb2" />
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/11.5/playerglobal.swc!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library type="flex">
-        <properties id="20383065-8b43-4fae-a20d-2f4aae289914" />
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/13/playerglobal13_0.swc!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library type="flex">
-        <properties id="d8017b98-007f-4c07-b833-8c336f8907eb" />
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/16/playerglobal16_0.swc!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library type="flex">
         <properties id="f6f12802-2ccb-4801-bfb5-34484fdfe772" />
         <CLASSES>
           <root url="jar://$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/16/playerglobal.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="9c9fbe89-f720-4087-96ad-74ff22ffb7c1" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Shared/external/MonsterDebugger.swc!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

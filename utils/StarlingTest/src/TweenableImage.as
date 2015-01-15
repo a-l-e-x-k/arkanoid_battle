@@ -5,7 +5,7 @@
  */
 package
 {
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import starling.display.Image;
 	import starling.textures.Texture;

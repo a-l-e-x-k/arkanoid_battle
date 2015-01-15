@@ -2,42 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0afbbb9-afcb-4499-9414-4e73d62187da" name="Default" comment="newRankProtectionCount">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/bin/Debug/Development Server Settings.playeriodb" afterPath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/bin/Debug/Development Server Settings.playeriodb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flas/MainLibrary.swc" afterPath="$PROJECT_DIR$/flas/MainLibrary.swc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/obj/Debug/Player.IO Test Server.VS2010.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/obj/Debug/Player.IO Test Server.VS2010.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Client .NET/PlayerIOClient.dll" afterPath="$PROJECT_DIR$/serverside/Player.IO Client .NET/PlayerIOClient.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/bin/x64/Debug/ServerSide Code.dll" afterPath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/bin/x64/Debug/ServerSide Code.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/obj/x86/Debug/ServerSide Code.dll" afterPath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/obj/x86/Debug/ServerSide Code.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/bin/x64/Debug/ServerSide Code.pdb" afterPath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/bin/x64/Debug/ServerSide Code.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/obj/x86/Debug/ServerSide Code.pdb" afterPath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/obj/x86/Debug/ServerSide Code.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/obj/x86/Debug/ServerSide.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/obj/x86/Debug/ServerSide.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/bin/Debug/Test Server.exe" afterPath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/bin/Debug/Test Server.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/obj/Debug/Test Server.exe" afterPath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/obj/Debug/Test Server.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/bin/Debug/Test Server.pdb" afterPath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/bin/Debug/Test Server.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/obj/Debug/Test Server.pdb" afterPath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/obj/Debug/Test Server.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/application.swf" afterPath="$PROJECT_DIR$/bin/application.swf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/utils/animations/AnimClip.as" afterPath="$PROJECT_DIR$/../Shared/utils/animations/AnimClip.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/utils/animations/AnimationCreator.as" afterPath="$PROJECT_DIR$/../Shared/utils/animations/AnimationCreator.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/model/animations/AnimationsManager.as" afterPath="$PROJECT_DIR$/classes/model/animations/AnimationsManager.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Arkanoid Battle.iml" afterPath="$PROJECT_DIR$/Arkanoid Battle.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/hierarchy/BasicRoom.cs" afterPath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/hierarchy/BasicRoom.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/BigDB.as" afterPath="$PROJECT_DIR$/../Shared/playerio/BigDB.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/filters/BlurFilter.as" afterPath="$PROJECT_DIR$/../Shared/starling/filters/BlurFilter.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/Client.as" afterPath="$PROJECT_DIR$/../Shared/playerio/Client.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/ClipVertex.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/ClipVertex.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/Connection.as" afterPath="$PROJECT_DIR$/../Shared/playerio/Connection.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/DatabaseObject.as" afterPath="$PROJECT_DIR$/../Shared/playerio/DatabaseObject.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/display/DisplayObjectContainer.as" afterPath="$PROJECT_DIR$/../Shared/starling/display/DisplayObjectContainer.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/ErrorLog.as" afterPath="$PROJECT_DIR$/../Shared/playerio/ErrorLog.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/utils/EventHub.as" afterPath="$PROJECT_DIR$/../Shared/utils/EventHub.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/FieldPresetCreator/FieldPresetCreator.iml" afterPath="$PROJECT_DIR$/utils/FieldPresetCreator/FieldPresetCreator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Features.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Features.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/filters/FragmentFilter.as" afterPath="$PROJECT_DIR$/../Shared/starling/filters/FragmentFilter.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/model/constants/GameConfig.as" afterPath="$PROJECT_DIR$/classes/model/constants/GameConfig.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/GameConfig.cs" afterPath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/GameConfig.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/motion/GTween.as" afterPath="$PROJECT_DIR$/../Shared/external/motion/GTween.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/GameFS.as" afterPath="$PROJECT_DIR$/../Shared/playerio/GameFS.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/animation/Juggler.as" afterPath="$PROJECT_DIR$/../Shared/starling/animation/Juggler.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/Lightning/Lightning.iml" afterPath="$PROJECT_DIR$/utils/Lightning/Lightning.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/model/LoginModel.as" afterPath="$PROJECT_DIR$/classes/model/LoginModel.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/Main.as" afterPath="$PROJECT_DIR$/classes/Main.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/Message.as" afterPath="$PROJECT_DIR$/../Shared/playerio/Message.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/utils/Misc.as" afterPath="$PROJECT_DIR$/../Shared/utils/Misc.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/motion/plugins/MotionBlurPlugin.as" afterPath="$PROJECT_DIR$/../Shared/external/motion/plugins/MotionBlurPlugin.as" />
@@ -47,33 +27,94 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/PartnerPay.as" afterPath="$PROJECT_DIR$/../Shared/playerio/PartnerPay.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/PayVault.as" afterPath="$PROJECT_DIR$/../Shared/playerio/PayVault.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/PayVaultHistoryEntry.as" afterPath="$PROJECT_DIR$/../Shared/playerio/PayVaultHistoryEntry.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/obj/Debug/Player.IO Test Server.VS2010.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/serverside/Player.IO Test Server Project/obj/Debug/Player.IO Test Server.VS2010.csproj.FileListAbsolute.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/PlayerIO.as" afterPath="$PROJECT_DIR$/../Shared/playerio/PlayerIO.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Player.IO Client .NET/PlayerIOClient.xml" afterPath="$PROJECT_DIR$/serverside/Player.IO Client .NET/PlayerIOClient.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/PlayerIOError.as" afterPath="$PROJECT_DIR$/../Shared/playerio/PlayerIOError.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/PlayerIORegistrationError.as" afterPath="$PROJECT_DIR$/../Shared/playerio/PlayerIORegistrationError.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/utils/Popup.as" afterPath="$PROJECT_DIR$/../Shared/utils/Popup.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/PrewiggleEffect/PrewiggleEffect.iml" afterPath="$PROJECT_DIR$/utils/PrewiggleEffect/PrewiggleEffect.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/display/QuadBatch.as" afterPath="$PROJECT_DIR$/../Shared/starling/display/QuadBatch.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/QuickConnect.as" afterPath="$PROJECT_DIR$/../Shared/playerio/QuickConnect.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/core/RenderSupport.as" afterPath="$PROJECT_DIR$/../Shared/starling/core/RenderSupport.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/textures/RenderTexture.as" afterPath="$PROJECT_DIR$/../Shared/starling/textures/RenderTexture.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/RoomInfo.as" afterPath="$PROJECT_DIR$/../Shared/playerio/RoomInfo.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/obj/x86/Debug/ServerSide.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/serverside/Game Code/ServerSide Code/obj/x86/Debug/ServerSide.csproj.FileListAbsolute.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/SimpleGameFS.as" afterPath="$PROJECT_DIR$/../Shared/playerio/SimpleGameFS.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/utils/snapshoter/Snapshoter.as" afterPath="$PROJECT_DIR$/../Shared/utils/snapshoter/Snapshoter.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/core/Starling.as" afterPath="$PROJECT_DIR$/../Shared/starling/core/Starling.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/utils/animations/StarlingAnimClip.as" afterPath="$PROJECT_DIR$/../Shared/utils/animations/StarlingAnimClip.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/StarlingTest/StarlingTest.iml" afterPath="$PROJECT_DIR$/utils/StarlingTest/StarlingTest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/caurina/transitions/Tweener.as" afterPath="$PROJECT_DIR$/../Shared/external/caurina/transitions/Tweener.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/textures/TextureSmoothing.as" afterPath="$PROJECT_DIR$/../Shared/starling/textures/TextureSmoothing.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/starling/animation/Transitions.as" afterPath="$PROJECT_DIR$/../Shared/starling/animation/Transitions.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/playerio/VaultItem.as" afterPath="$PROJECT_DIR$/../Shared/playerio/VaultItem.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/flexCompiler.xml" afterPath="$PROJECT_DIR$/.idea/flexCompiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/index.html" afterPath="$PROJECT_DIR$/site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2AABB.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2AABB.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2Body.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2Body.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2BodyDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2BodyDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Bound.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Bound.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2BoundValues.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2BoundValues.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2BoundaryListener.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2BoundaryListener.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2BroadPhase.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2BroadPhase.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2BufferedPair.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2BufferedPair.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2CircleContact.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2CircleContact.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2CircleDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2CircleDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2CircleShape.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2CircleShape.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Collision.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Collision.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Common/b2Color.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Common/b2Color.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2Contact.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2Contact.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactConstraint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactConstraint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactConstraintPoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactConstraintPoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactEdge.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactEdge.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2ContactFilter.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2ContactFilter.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2ContactID.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2ContactID.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2ContactListener.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2ContactListener.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2ContactManager.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2ContactManager.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2ContactPoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2ContactPoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactRegister.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactRegister.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactResult.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactResult.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactSolver.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2ContactSolver.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2DebugDraw.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2DebugDraw.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2DestructionListener.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2DestructionListener.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Distance.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Distance.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2DistanceJoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2DistanceJoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2DistanceJointDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2DistanceJointDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2FilterData.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2FilterData.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2GearJoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2GearJoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2GearJointDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2GearJointDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2Island.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2Island.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2Jacobian.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2Jacobian.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2Joint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2Joint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2JointDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2JointDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2JointEdge.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2JointEdge.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Manifold.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Manifold.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2ManifoldPoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2ManifoldPoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2MassData.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2MassData.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2Mat22.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2Mat22.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2Math.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2Math.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2MouseJoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2MouseJoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2MouseJointDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2MouseJointDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2NullContact.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2NullContact.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2OBB.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2OBB.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Pair.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Pair.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2PairCallback.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2PairCallback.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2PairManager.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2PairManager.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Point.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Point.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2PolyAndCircleContact.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2PolyAndCircleContact.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2PolygonContact.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Contacts/b2PolygonContact.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2PolygonDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2PolygonDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2PolygonShape.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2PolygonShape.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2PrismaticJoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2PrismaticJoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2PrismaticJointDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2PrismaticJointDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Proxy.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Proxy.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2PulleyJoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2PulleyJoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2PulleyJointDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2PulleyJointDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2RevoluteJoint.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2RevoluteJoint.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2RevoluteJointDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/Joints/b2RevoluteJointDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Segment.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2Segment.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Common/b2Settings.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Common/b2Settings.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2Shape.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2Shape.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2ShapeDef.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/Shapes/b2ShapeDef.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2Sweep.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2Sweep.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2TimeOfImpact.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Collision/b2TimeOfImpact.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2TimeStep.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2TimeStep.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2Vec2.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2Vec2.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2World.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Dynamics/b2World.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2XForm.as" afterPath="$PROJECT_DIR$/../Shared/external/Box2D/Common/Math/b2XForm.as" />
     </list>
     <ignored path="Arkanoid Battle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,21 +184,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SnapshotManager.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Shared/utils/snapshoter/SnapshotManager.as">
+      <file leaf-file-name="Main.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/Main.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="3088">
+              <caret line="78" column="117" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerioInteractions.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Shared/networking/init/PlayerioInteractions.as">
+      <file leaf-file-name="SpellItem.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/view/popups/myspells/SpellItem.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.712831" vertical-offset="3221" max-vertical-offset="3712">
-              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="2816">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurveAnimations.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/view/game/curveAnimations/CurveAnimations.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1120" max-vertical-offset="2080">
+              <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -174,7 +225,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/classes/view/game/field/OpponentField.as" />
-        <option value="$PROJECT_DIR$/classes/view/popups/myspells/SpellItem.as" />
         <option value="$PROJECT_DIR$/classes/model/shop/ShopItemsInfo.as" />
         <option value="$PROJECT_DIR$/classes/view/game/field/BaseField.as" />
         <option value="$PROJECT_DIR$/classes/Config.as" />
@@ -188,10 +238,15 @@
         <option value="$PROJECT_DIR$/classes/view/game/rocket/RocketView.as" />
         <option value="$PROJECT_DIR$/classes/view/popups/myspells/SpellsPopup.as" />
         <option value="$PROJECT_DIR$/classes/model/constants/GameConfig.as" />
-        <option value="$PROJECT_DIR$/classes/Main.as" />
-        <option value="$PROJECT_DIR$/../Shared/networking/init/PlayerioInteractions.as" />
         <option value="$PROJECT_DIR$/classes/model/LoginModel.as" />
         <option value="$PROJECT_DIR$/classes/model/animations/AnimationsManager.as" />
+        <option value="$PROJECT_DIR$/classes/Main.as" />
+        <option value="$PROJECT_DIR$/../Shared/networking/init/PlayerioInteractions.as" />
+        <option value="$PROJECT_DIR$/classes/view/popups/myspells/SpellItem.as" />
+        <option value="$PROJECT_DIR$/classes/view/game/ball/BallView.as" />
+        <option value="$PROJECT_DIR$/../Shared/utils/TweenableImage.as" />
+        <option value="$PROJECT_DIR$/../Shared/caurina/transitions/Tweener.as" />
+        <option value="$PROJECT_DIR$/classes/view/game/ball/BallPath.as" />
       </list>
     </option>
   </component>
@@ -287,6 +342,24 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arkanoid Battle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arkanoid Battle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arkanoid Battle" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
@@ -319,7 +392,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.org.zmlx.hg4idea.provider.HgHistoryProvider_treeWidth2" value="262" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Development/flex_sdk_4.6/frameworks/libs/player/16/playerglobal.swc!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shared" />
     <property name="FileHistory.org.zmlx.hg4idea.provider.HgHistoryProvider_treeWidth0" value="260" />
     <property name="FileHistory.org.zmlx.hg4idea.provider.HgHistoryProvider_treeOrder0" value="0" />
     <property name="FileHistory.org.zmlx.hg4idea.provider.HgHistoryProvider_treeOrder1" value="1" />
@@ -360,13 +433,6 @@
       <recent name="screen.game.GameConfig" />
       <recent name="screen.game.Sizes" />
     </key>
-    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
-      <recent name="view.game.missile" />
-      <recent name="model.sound" />
-      <recent name="model.game.laser" />
-      <recent name="view.popups" />
-      <recent name="model" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/classes/model/game/missile" />
       <recent name="D:\Job\Dropbox\Arkanoid Battle\classes\view\popups\maps" />
@@ -374,15 +440,25 @@
       <recent name="D:\Job\Dropbox\Arkanoid Battle\utils\PrewiggleEffect\src\external" />
       <recent name="D:\Job\Dropbox\Arkanoid Battle\utils\PrewiggleEffect\src" />
     </key>
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="view.game.missile" />
+      <recent name="model.sound" />
+      <recent name="model.game.laser" />
+      <recent name="view.popups" />
+      <recent name="model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="external" />
+      <recent name="exteernal" />
+      <recent name="external.caurina" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/classes/view/game/missile" />
       <recent name="$PROJECT_DIR$/classes/view/game" />
       <recent name="$PROJECT_DIR$/classes/model/sound" />
       <recent name="$PROJECT_DIR$/../Shared/external/bouncyShield" />
       <recent name="$PROJECT_DIR$/../Shared" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
     </key>
     <key name="JSIntroduceConstantDialog">
       <recent name="events.RequestEvent" />
@@ -834,13 +910,49 @@
       <ConfigurationWrapper RunnerId="Profile" />
       <method />
     </configuration>
-    <list size="6">
+    <configuration default="false" name="Starling Test" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="Starling Test" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="Starling Test" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Flash App.ArkBattle" />
       <item index="1" class="java.lang.String" itemvalue="Flash App.ArkBattle IFrame" />
       <item index="2" class="java.lang.String" itemvalue="Flash App.FieldPresetCreator" />
       <item index="3" class="java.lang.String" itemvalue="Flash App.Lightning" />
       <item index="4" class="java.lang.String" itemvalue="Flash App.StarlingTest" />
       <item index="5" class="java.lang.String" itemvalue="Flash App.PrewiggleEffect" />
+      <item index="6" class="java.lang.String" itemvalue="Flash App.Starling Test" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -866,6 +978,16 @@
       <workItem from="1420733864031" duration="252000" />
       <workItem from="1420734137503" duration="132000" />
       <workItem from="1420734288457" duration="11255000" />
+      <workItem from="1420829220032" duration="49000" />
+      <workItem from="1420883436075" duration="418000" />
+      <workItem from="1420929904826" duration="1058000" />
+      <workItem from="1421152362976" duration="87000" />
+      <workItem from="1421152582742" duration="8000" />
+      <workItem from="1421153348919" duration="17000" />
+      <workItem from="1421250504173" duration="180000" />
+      <workItem from="1421253610999" duration="662000" />
+      <workItem from="1421254340395" duration="387000" />
+      <workItem from="1421254746054" duration="712000" />
     </task>
     <task id="LOCAL-00001" summary="basic view stuff">
       <created>1336325148836</created>
@@ -887,7 +1009,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16002000" />
+    <option name="totallyTimeSpent" value="19580000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -910,30 +1032,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3385542" sideWeight="0.48530197" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3433735" sideWeight="0.2784607" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3433735" sideWeight="0.6015737" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24892396" sideWeight="0.6473214" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28674698" sideWeight="0.26542324" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28674698" sideWeight="0.2653791" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38528678" sideWeight="0.72955525" order="16" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3433735" sideWeight="0.39842632" order="16" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16427547" sideWeight="0.21197008" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977018" sideWeight="0.66852677" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5373494" sideWeight="0.49812934" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29638556" sideWeight="0.60545194" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29036143" sideWeight="0.453505" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771084" sideWeight="0.49385357" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16427547" sideWeight="0.23441397" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977018" sideWeight="0.62165177" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997862" sideWeight="0.6707589" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16380544" sideWeight="0.6546135" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16380544" sideWeight="0.6546135" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959914" sideWeight="0.66964287" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977018" sideWeight="0.62946427" order="6" side_tool="false" content_ui="tabs" />
@@ -1026,78 +1148,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Shared/networking/init/InitManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Main.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2080" max-vertical-offset="2512">
-          <caret line="171" column="18" selection-start-line="171" selection-start-column="18" selection-end-line="171" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/model/userData/UserData.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3104" max-vertical-offset="3600">
-          <caret line="194" column="18" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/model/game/Game.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2864" max-vertical-offset="4544">
-          <caret line="179" column="66" selection-start-line="179" selection-start-column="9" selection-end-line="179" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes/view/game/field/BaseField.as">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3584" max-vertical-offset="5664">
           <caret line="224" column="35" selection-start-line="224" selection-start-column="35" selection-end-line="224" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/view/game/field/PlayerField.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2368" max-vertical-offset="3376">
-          <caret line="148" column="50" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/model/IGameState.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23628692" vertical-offset="0" max-vertical-offset="0">
-          <caret line="7" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Shared/networking/networkers/INetworker.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3628691" vertical-offset="0" max-vertical-offset="0">
-          <caret line="8" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/model/game/ball/BallModel.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1344" max-vertical-offset="4240">
-          <caret line="84" column="72" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/view/game/field/BaseField.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3584" max-vertical-offset="5664">
-          <caret line="224" column="35" selection-start-line="224" selection-start-column="35" selection-end-line="224" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,7 +1159,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,7 +1173,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1776" max-vertical-offset="4000">
           <caret line="111" column="33" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,7 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1615" max-vertical-offset="2464">
           <caret line="130" column="20" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,7 +1187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1984" max-vertical-offset="2992">
           <caret line="179" column="153" selection-start-line="179" selection-start-column="58" selection-end-line="179" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1144,7 +1194,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="873" max-vertical-offset="1760">
           <caret line="72" column="42" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1152,7 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334" vertical-offset="30" max-vertical-offset="592">
           <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,7 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33208954" vertical-offset="62" max-vertical-offset="752">
           <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,7 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54273504" vertical-offset="2130" max-vertical-offset="2640">
           <caret line="161" column="89" selection-start-line="161" selection-start-column="54" selection-end-line="161" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1176,7 +1222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.69052225" vertical-offset="75" max-vertical-offset="592">
           <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1184,7 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14209591" vertical-offset="0" max-vertical-offset="864">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,15 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Main.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1778584" vertical-offset="592" max-vertical-offset="2512">
-          <caret line="151" column="52" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1208,7 +1243,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.4555354" vertical-offset="1609" max-vertical-offset="2160">
           <caret line="24" column="86" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1216,7 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.2558985" vertical-offset="4073" max-vertical-offset="4624">
           <caret line="112" column="40" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1224,7 +1257,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.75464684" vertical-offset="2854" max-vertical-offset="3392">
           <caret line="166" column="47" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1232,15 +1264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="5.0780144" vertical-offset="0" max-vertical-offset="3744">
           <caret line="193" column="61" selection-start-line="193" selection-start-column="61" selection-end-line="193" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Shared/utils/snapshoter/SnapshotManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="398" max-vertical-offset="1200">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,7 +1271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.73049647" vertical-offset="2492" max-vertical-offset="3056">
           <caret line="149" column="106" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,9 +1278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1296">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1266,7 +1285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.9001815" vertical-offset="816" max-vertical-offset="1408">
           <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,7 +1292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.6382979" vertical-offset="1100" max-vertical-offset="1664">
           <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,9 +1299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1292,9 +1306,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.1651542" vertical-offset="1193" max-vertical-offset="1744">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1302,9 +1313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1312,9 +1320,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1322,7 +1327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.19148937" vertical-offset="364" max-vertical-offset="928">
           <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1330,9 +1334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.015873017" vertical-offset="648" max-vertical-offset="1152">
           <caret line="46" column="77" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
-          <folding>
-            <element signature="e#183#210#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1340,7 +1341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="4.7659574" vertical-offset="0" max-vertical-offset="2704">
           <caret line="169" column="44" selection-start-line="169" selection-start-column="28" selection-end-line="169" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1348,7 +1348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="4.704062" vertical-offset="0" max-vertical-offset="4112">
           <caret line="179" column="66" selection-start-line="179" selection-start-column="9" selection-end-line="179" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1356,9 +1355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.84127" vertical-offset="3448" max-vertical-offset="3952">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1366,9 +1362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1376,9 +1369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="517">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1386,9 +1376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="517">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1396,9 +1383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="912">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1406,7 +1390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.2495165" vertical-offset="1355" max-vertical-offset="1872">
           <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1414,9 +1397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.88781434" vertical-offset="459" max-vertical-offset="976">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1424,9 +1404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.936508" vertical-offset="1480" max-vertical-offset="1984">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1434,9 +1411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.5714285" vertical-offset="1800" max-vertical-offset="2304">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1444,16 +1418,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.8994198" vertical-offset="1499" max-vertical-offset="2016">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shared/networking/init/PlayerioInteractions.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17021276" vertical-offset="240" max-vertical-offset="4096">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shared/utils/snapshoter/SnapshotManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="398" max-vertical-offset="1200">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="3088">
+          <caret line="78" column="117" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shared/caurina/transitions/SpecialProperty.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/view/popups/myspells/SpellItem.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="2752">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shared/caurina/transitions/PropertyInfoObj.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1536">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/view/game/ball/BallView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20035778" vertical-offset="0" max-vertical-offset="1344">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Shared/networking/init/PlayerioInteractions.as">
+    <entry file="file://$PROJECT_DIR$/../Shared/caurina/transitions/Tweener.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.712831" vertical-offset="3221" max-vertical-offset="3712">
+        <state vertical-scroll-proportion="0.7129799" vertical-offset="346" max-vertical-offset="18144">
           <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shared/utils/TweenableImage.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37142858" vertical-offset="416" max-vertical-offset="976">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <element signature="e#81#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/view/game/ball/ColoredBallsManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.969697" vertical-offset="0" max-vertical-offset="1136">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/view/game/ball/BallPath.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.321083" vertical-offset="0" max-vertical-offset="1584">
+          <caret line="86" column="48" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/view/game/curveAnimations/CurveAnimations.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="2336">
+          <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1472,7 +1532,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.1440281" />
               </list>
             </option>
           </splitter-proportions>
@@ -1528,11 +1588,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ArkBatlte|Arkanoid Battle</last-edited>
+          <last-edited>Arkanoid Battle</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.1440281" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -12,8 +12,8 @@ package fl.transitions
  * <p>For example, the following code uses the Fly transition for the movie clip 
  * instance <code>img1_mc</code>:</p>
  * <listing>
- * import fl.transitions.~~;
- * import fl.transitions.easing.~~;
+ * import fl.external.transitions.~~;
+ * import fl.external.transitions.easing.~~;
  *  
  * TransitionManager.start(img1_mc, {type:Fly, direction:Transition.IN, duration:3, easing:Elastic.easeOut, startPoint:9}); 
  * </listing>

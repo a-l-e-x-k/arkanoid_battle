@@ -5,7 +5,7 @@
  */
 package view.game.ball
 {
-	import external.caurina.transitions.Equations;
+	import caurina.transitions.Equations;
 
 	import flash.utils.Dictionary;
 

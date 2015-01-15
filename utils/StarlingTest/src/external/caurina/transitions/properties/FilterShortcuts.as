@@ -1,4 +1,4 @@
-package external.caurina.transitions.properties {
+package caurina.transitions.properties {
 
 	/**
 	 * properties.FilterShortcuts
@@ -9,8 +9,8 @@ package external.caurina.transitions.properties {
 	 * @version		1.0.0
 	 */
 
-	import external.caurina.transitions.AuxFunctions;
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.AuxFunctions;
+	import caurina.transitions.Tweener;
 
 	import flash.display.BitmapData;
 	import flash.filters.BevelFilter;

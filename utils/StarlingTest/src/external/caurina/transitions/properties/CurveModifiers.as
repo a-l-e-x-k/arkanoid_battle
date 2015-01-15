@@ -1,4 +1,4 @@
-package external.caurina.transitions.properties {
+package caurina.transitions.properties {
 
 	/**
 	 * properties.CurveModifiers
@@ -9,7 +9,7 @@ package external.caurina.transitions.properties {
 	 * @version		1.0.0
 	 */
 
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	public class CurveModifiers {
 

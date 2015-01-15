@@ -7,7 +7,7 @@ package view.topBar
 {
     import events.RequestEvent;
 
-    import external.caurina.transitions.properties.SoundShortcuts;
+    import caurina.transitions.properties.SoundShortcuts;
 
     import flash.events.MouseEvent;
 

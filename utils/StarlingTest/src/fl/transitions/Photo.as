@@ -10,8 +10,8 @@ package fl.transitions
  * <p>For example, the following code uses the Photo transition for the movie clip 
  * instance <code>img1_mc</code>:</p>
  * <listing>
- * import fl.transitions.~~;
- * import fl.transitions.easing.~~;
+ * import fl.external.transitions.~~;
+ * import fl.external.transitions.easing.~~;
  *  
  * TransitionManager.start (img1_mc, {type:Photo, direction:Transition.IN, duration:1, easing:None.easeNone});
  * </listing>

@@ -1,4 +1,4 @@
-// Copyright © 2007. Adobe Systems Incorporated. All Rights Reserved.
+// Copyright ï¿½ 2007. Adobe Systems Incorporated. All Rights Reserved.
 package fl.transitions 
 { 
 import flash.display.MovieClip;
@@ -10,8 +10,8 @@ import flash.display.MovieClip;
  * <p>For example, the following code uses the Squeeze transition for the movie clip 
  * instance <code>img1_mc</code>:</p>
  * <listing>
- * import fl.transitions.~~;
- * import fl.transitions.easing.~~;
+ * import fl.external.transitions.~~;
+ * import fl.external.transitions.easing.~~;
  *    
  * TransitionManager.start(img1_mc, {type:Squeeze, direction:Transition.IN, duration:2, easing:Elastic.easeOut, dimension:1});
  * </listing>

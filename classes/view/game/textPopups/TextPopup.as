@@ -5,7 +5,7 @@
  */
 package view.game.textPopups
 {
-import external.caurina.transitions.Tweener;
+import caurina.transitions.Tweener;
 
 import starling.display.Image;
 

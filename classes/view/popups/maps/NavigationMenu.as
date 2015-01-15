@@ -2,7 +2,7 @@ package view.popups.maps
 {
 	import events.RequestEvent;
 
-	import external.caurina.transitions.Tweener;
+	import caurina.transitions.Tweener;
 
 	import flash.display.MovieClip;
 	import flash.display.Sprite;

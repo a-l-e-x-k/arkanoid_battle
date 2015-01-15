@@ -23,7 +23,6 @@ package
     import model.spells.PreviewsLoader;
     import model.timer.GlobalTimer;
     import model.timer.GlobalTimerOneSecond;
-    import model.userData.Spells;
     import model.userData.UserData;
 
     import networking.special.ViralEvent;
@@ -35,8 +34,6 @@ package
     import starling.events.ResizeEvent;
 
     import utils.EventHub;
-    import utils.snapshoter.SnapshotManager;
-    import utils.snapshoter.Snapshoter;
 
     import view.MainView;
     import view.StarlingLayer;
